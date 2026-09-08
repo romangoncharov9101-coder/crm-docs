@@ -1,0 +1,40 @@
+title: "CRM — Руководство"
+description: "Руководство пользователя системы CRM"
+lang: ru
+
+url: "https://romangoncharov9101-coder.github.io"
+baseurl: "/wiredcrm-docs"
+
+theme: just-the-docs
+
+include:
+  - docs
+
+search_enabled: true
+search:
+  heading_level: 3      
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+color_scheme: light
+
+heading_anchors: true
+
+
+back_to_top: true
+back_to_top_text: "Наверх"
+
+footer_content: "CRM. Документация обновлена автоматически."
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .github
