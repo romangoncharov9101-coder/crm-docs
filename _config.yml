@@ -3,7 +3,7 @@ description: "Руководство пользователя системы CRM
 lang: ru
 
 url: "https://romangoncharov9101-coder.github.io"
-baseurl: "/wiredcrm-docs"
+baseurl: "/crm-docs"
 
 theme: just-the-docs
 
