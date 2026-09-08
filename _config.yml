@@ -5,7 +5,7 @@ lang: ru
 url: "https://romangoncharov9101-coder.github.io"
 baseurl: "/crm-docs"
 
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 include:
   - docs
@@ -32,6 +32,8 @@ footer_content: "CRM. Документация обновлена автомат
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-seo-tag
+  - jekyll-remote-theme
 
 exclude:
   - Gemfile
