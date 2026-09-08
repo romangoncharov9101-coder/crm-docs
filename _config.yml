@@ -7,8 +7,11 @@ baseurl: "/crm-docs"
 
 theme: just-the-docs
 
-include:
-  - docs
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 search_enabled: true
 search:
