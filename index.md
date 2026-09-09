@@ -18,7 +18,6 @@ nav_order: 0
 - [Создание сущностей](docs/entities.html)
 - [Поля: типы и настройки](docs/fields.html)
 - [Виджеты](docs/widgets.html)
-- [Календарь и активности](docs/calendar.html)
 - [Доступы: пользователи, роли, команды](docs/access.html)
 
 ## Быстрые ссылки
